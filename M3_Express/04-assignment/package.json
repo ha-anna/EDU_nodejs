@@ -1,0 +1,16 @@
+{
+  "name": "04-assignment",
+  "version": "1.0.0",
+  "description": "Learning Express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "its-haanna"
+  },
+  "author": "Anna Ha",
+  "license": "ISC"
+}
