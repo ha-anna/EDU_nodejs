@@ -7,4 +7,4 @@
 
 <br>
 
-![](./module_summary.png)
+![](./module_summary.png) 
