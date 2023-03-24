@@ -22,6 +22,10 @@ It's all about [Separation of Concerns](https://en.wikipedia.org/wiki/Separation
 
 ---
 
+## Summary:
+
+![Module Summary](module_summary.png)
+
 ## Useful resources:
 
 1. More on MVC: https://developer.mozilla.org/en-US/docs/Glossary/MVC
